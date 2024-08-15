@@ -170,7 +170,7 @@ Kruskal-Wallis chi-squared = 30.241, df = 1, p-value = 3.816e-08
 
 Since the p-value is far less than any commonly used significance level, this means there is strong evidence to suggest that the medians between the groups are not equal - coverage levels are different.
 
-## Step 4 - lets look at the correlation between live coverage and the Chordata taxonomic group
+### Step 5 - lets look at the correlation between live coverage and the Chordata taxonomic group
 
 ![chordatalivecov](../images/chor_lcoverage.png)
 
