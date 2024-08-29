@@ -178,6 +178,10 @@ Judging by our data, the correlation isnt strong, so we cannot assume a strong r
 
 ## Molecular Networks
 
+Unfortunately this is all I could extract from the website, s the visualization tool broke down and the website itself experienced connection issues.
+
+![error](../images/error.JPG)
+
 ![molnet](../images/mol-network.JPG)
 
 Link to the job - https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=fdf6df76a3f14ecdaaa63c850b44f3fc
